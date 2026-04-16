@@ -1,4 +1,4 @@
-# Day 2 - 
+# Day 2 - Two Sum 
 # Platform: LeetCode
 
 class Solution(object):
@@ -10,4 +10,6 @@ class Solution(object):
                 
 # Calling the function
 s = Solution()
-print(s.twoSum([2,7,11,15], 9))
+print(s.twoSum([2,7,11,15], 9)) # Returns index positions of numbers that add up to target
+
+
