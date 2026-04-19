@@ -1,3 +1,6 @@
+# Day 5 - Valid Parenthese
+# Platform: LeetCode
+
 class Solution(object):
     def isValid(self, s):
         stack = []
