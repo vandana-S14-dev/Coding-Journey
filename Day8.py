@@ -1,4 +1,4 @@
-# Day 6 - 
+# Day 8 - Remove Element
 # Platform: LeetCode
 
 class Solution(object):
