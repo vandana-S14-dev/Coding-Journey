@@ -1,3 +1,6 @@
+# Day 9 - Find The Index Of The First Occurance In A String
+# Platform: LeetCode
+
 class Solution(object):
     def strStr(self, haystack, needle):
         # Edge case: if needle is empty, return 0
