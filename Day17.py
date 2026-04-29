@@ -13,7 +13,7 @@ class Solution(object):
         return b
 
 
-# test cases
+# Output
 if __name__ == "__main__":
     sol = Solution()
     print(sol.climbStairs(2))  # Output: 2
