@@ -1,8 +1,6 @@
 # Day 16 - Remove Duplicates From Sorted List
 # Platform: LeetCode
 
-# Day16.py
-
 # 1. Define the ListNode class
 class ListNode(object):
     def __init__(self, val=0, next=None):

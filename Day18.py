@@ -3,9 +3,7 @@
 
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
-        """
-        Do not return anything, modify nums1 in-place instead.
-        """
+        
         i, j, k = m - 1, n - 1, m + n - 1
 
         # Merge from the back
