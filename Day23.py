@@ -1,4 +1,4 @@
-# Day 22 - Convert sorterd array to binary search tree 
+# Day 23 - Convert sorterd array to binary search tree 
 # Platform: LeetCode
 
 from typing import List, Optional
@@ -23,7 +23,7 @@ class Solution:
             return root
         return helper(0, len(nums) - 1)
 
-# Utility: print tree in level-order (array style)
+
 def serialize(root: Optional[TreeNode]) -> List[Optional[int]]:
     if not root:
         return []
