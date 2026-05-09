@@ -1,3 +1,6 @@
+# Day 24 - Pascal's Triangle    
+# Platform: LeetCode
+
 class Solution(object):
     def generate(self, numRows):
         triangle = []
