@@ -49,7 +49,7 @@ def build_tree(values):
 
 
 # ---------------------------
-# Example usage in VS Code
+# Example usage 
 if __name__ == "__main__":
     # Example 1
     root1 = build_tree([3,9,20,None,None,15,7])
