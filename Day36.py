@@ -1,4 +1,4 @@
-# Day 36 - 
+# Day 36 - excel-sheet-column-title
 # Platform: LeetCode
 
 class Solution(object):
